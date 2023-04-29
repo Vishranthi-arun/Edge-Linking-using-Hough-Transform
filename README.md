@@ -26,8 +26,10 @@ Display the image and end the program.
 
 
 ## Program:
-
-
+```
+Developed by:Vishranthi A
+Reg no. 212221230124
+```
 # Read image and convert it to grayscale image
 ```
 import cv2
@@ -75,18 +77,17 @@ plt.show()
 ## Output
 
 ### Input image and grayscale image
-![image](https://user-images.githubusercontent.com/93992063/232981911-1d707477-9a7c-40dd-8300-d5e9972ae1f8.png)
 
+![Uploading Screenshot 2023-04-29 112152.png…]()
 
 ### Canny Edge detector output
-![image](https://user-images.githubusercontent.com/93992063/232982014-b2db0fdf-6429-4ce9-b156-dfa7bb046f0d.png)
 
+![Screenshot 2023-04-29 112205](https://user-images.githubusercontent.com/93427278/235286383-1ac6d0ce-d33e-4fae-aa98-2d9c3725bfd3.png)
 
 
 ### Display the result of Hough transform
 
-![image](https://user-images.githubusercontent.com/93992063/232982802-4ed72a9d-8317-49f8-9b79-7f373cad0eb4.png)
-
+![Screenshot 2023-04-29 112215](https://user-images.githubusercontent.com/93427278/235286388-2f765b96-4a34-4ad0-b3fd-f9911e518535.png)
 
 
 ## Result:
