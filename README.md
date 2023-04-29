@@ -78,7 +78,7 @@ plt.show()
 
 ### Input image and grayscale image
 
-![Uploading Screenshot 2023-04-29 112152.png…]()
+
 
 ### Canny Edge detector output
 
